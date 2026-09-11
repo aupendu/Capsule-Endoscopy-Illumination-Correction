@@ -2,7 +2,7 @@
 
 ## Authors
 
-Shounak Mandal¹, Aupendu Kar², Anusha Vupputuri³, and Sobhan Kanti Dhara⁴*
+Shaunak Mandal¹, Aupendu Kar², Anusha Vupputuri³, and Sobhan Kanti Dhara⁴*
 
 1. Texas Instruments India, Bengaluru, Karnataka, 560093, India  
 2. Dolby Laboratories, Bengaluru, Karnataka, India  
